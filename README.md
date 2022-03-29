@@ -1,4 +1,4 @@
-<img src="" alt="app" />
+<img src="https://github.com/xNoJustice/react-quiz-app2/blob/433128b8bc45447c7758659340b71b726f92706a/app.gif" alt="app" />
 
 # Getting Started with Create React App
 
